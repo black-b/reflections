@@ -1,11 +1,12 @@
 What happens when you initialize a repository? Why do you need to do it?
 
-	I need to run 'git init'. Then new hidden directory '.git' is created that stores all changes in a current directory. Gi init initialze git to track changes
+	I need to run 'git init'. Then new hidden directory '.git' is created that stores all changes in a current directory. Git init initialize git to track changes.
 
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
 
-	It is temporery zone for files before commitment. Files in stage area are files that I am working on. Repository include files that are ready to use in production.
+	Staging area is temporery zone for files before commitment and helps to controll exactly which changes goes to each commit. Files in working area are files that I am actually working on. Repository include files that are ready to use in production. 
+
 
 How can you use the staging area to make sure you have one commit per logical
 change?
@@ -15,11 +16,11 @@ change?
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 	
-	For creating new expergit statusimental features or different language version. More collegues working on different features. Branches help us keep the one master branch to its own evolution. When muving to different piece of work. Master branch is production quality branch that always works (bug free :). In development branch activ work is taking progress.
+	For creating new experimental features or different language version, exp. more collegues working on different features. Branches help us keep the one master branch to its own evolution. When moving to different piece of work. Master branch is production quality branch that always works (bug free :). In development branch active work is taking progress.
 
 How do the diagrams help you visualize the branch structure?
-	
-	It is much more clear, where branches splited out. Shared commit is easy to know.
+	 
+	It is much more clear, where branches splited out, relation between commits and branches.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
@@ -28,4 +29,4 @@ the diagram the way we do?
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
-	Git automaticcaly chceck for conflicts, and if there aren't any it merge bwo versions. In conflicts it let human to decide, whicch changes to keep.
+	Git automaticcaly chceck for conflicts, and if there aren't any it merge two versions. In conflicts it let human to decide, which changes to keep.

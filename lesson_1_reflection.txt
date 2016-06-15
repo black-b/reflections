@@ -6,18 +6,18 @@ was introduced?
 How could having easy access to the entire history of a file make you a more
 efficient programmer in the long term?
 
-    I can save my time. Don't have to search changes and bugs manually. Can see and prove performance in time. Have just one file in time.
+    I can save my time. Don't have to search changes and bugs manually. Can see and improve performance in time and have just one copy of file.
 
 What do you think are the pros and cons of manually choosing when to create a
 commit, like you do in Git, vs having versions automatically saved, like Google
 docs does?
 
-    Manually choosing makes version control much more clear. Automated saving can commit unrelated features. Tracking Across Multiple Files.
+    Manually choosing makes version control much more clear. Automated saving can commit unrelated features. Git allows tracking across multiple files.
 
 Why do you think some version control systems, like Git, allow saving multiple
 files in one commit, while others, like Google Docs, treat each file separately?
 
-    Files are related and adding one feature or change can affect more files, but the change is related to all of them (or none, but files are related anyway).
+    Files are related and adding one feature or change can affect more files. The change which is commited can related to all of them at the same point in time (or none, but all files in project are related anyway).
 
 How can you use the commands git log and git diff to view the history of files?
 
@@ -27,8 +27,8 @@ How can you use the commands git log and git diff to view the history of files?
 How might using version control make you more confident to make changes that
 could break something?
 
-    It is easy to test previous version and search for bugs. Differencies between versions shows possible sources of bugs. Therefore is easy to fix the bugs. Can make risk changes without being afraid of ruin my work. That allows explorations.
+    It is easy to test previous version and search for bugs. Differencies between versions shows possible sources of bugs. Because, is easy to fix the bugs I can make risk changes without being afraid of ruin my work. That allows explorations :).
 
 Now that you have your workspace set up, what do you want to try using Git for?
 
-    I want to use it while I will be learning basics of web design and coding. Also It might be helpfull for versioning of text documents, notes, etc.
+    I want to use it while I will study basics of web design and coding. Coding my first website. Also It might be helpfull for versioning of text documents, notes, etc.
