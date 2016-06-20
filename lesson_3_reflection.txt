@@ -18,7 +18,7 @@ use one instead of another?
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+    I have the rest of project up to date to the last version. Can find existing conflicts with last known state much more faster than marging just once after long time.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
