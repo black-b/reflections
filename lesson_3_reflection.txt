@@ -18,12 +18,12 @@ use one instead of another?
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    I have the rest of project up to date to the last version. Can find existing conflicts with last known state much more faster than marging just once after long time.
+    I have the rest of the project up to date with the lastest version. I can find existing conflicts with last known state much more faster than marging just once after long time.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    Collaborating without Git or GitHub takes long time, becuase of identifiing potencional conflix. On GitHub I can share my changes witch everybody and can collecting feedback. Git doesn't have pull request, so using GitHub is easier for collaboration.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
